@@ -1,0 +1,2 @@
+insert into Address_Book values ('shruti','belsare','gandhi nagar','amravati','maharashtra',444601,8149713160,'shruti@gmail.com','family address book','Family'),
+('shruti','belsare','gandhi nagar','amravati','maharashtra',444601,8149713160,'shruti@gmail.com','friends address book','Friends');
