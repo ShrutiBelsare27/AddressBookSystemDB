@@ -1,0 +1,1 @@
+select * from address_book where city='amravati' Or state='maharashtra';
