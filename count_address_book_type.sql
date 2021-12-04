@@ -1,0 +1,1 @@
+select count(address_book_type)  from Address_Book where address_book_type='Family';
