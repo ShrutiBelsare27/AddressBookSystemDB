@@ -1,0 +1,1 @@
+alter table Address_Book add address_book_type varchar(50);
