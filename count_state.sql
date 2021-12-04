@@ -1,0 +1,1 @@
+select COUNT(state)  from Address_Book where state='kerala' group by state;
